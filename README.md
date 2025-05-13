@@ -13,6 +13,7 @@ Visualize trends with charts and maps
 Generate insights and create a comprehensive report
 
 📂 Project Structure
+
 covid19-tracker/
 │
 ├── data/
