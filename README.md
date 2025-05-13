@@ -94,7 +94,4 @@ PowerPoint presentation (screenshots + commentary)
 🤝 Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
 
-📜 License
-This project is licensed under the MIT License.
-
 Note: The dataset is updated regularly. For the most current analysis, download the latest data from Our World in Data before running the notebook.
