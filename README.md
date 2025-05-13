@@ -31,7 +31,7 @@ covid19-tracker/
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/covid19-tracker.git
+git clone [https://github.com/Brayodelight/Covid-19-Tracker.git]
 cd covid19-tracker
 Install dependencies:
 
